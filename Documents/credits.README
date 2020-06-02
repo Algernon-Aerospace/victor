@@ -1,0 +1,30 @@
+
+ #################################
+		Handley Page Victor
+	Algernon Aerospace Edition
+ #################################
+ 
+ Fork History:
+   - Original FlightGear Victor
+   |_ FGUK Victor B2 & K2
+      |_ Algernon Aerospace Victor B2, K2 & SR2
+ 
+ 
+ Acknowledgements:
+ 
+ Original FlightGear Victor (JSBSim) by Alex Park (MaverickAlex)
+ 
+ 
+ FGUK Victor 
+ -----------
+ B2 & K2 variants (YASim) by Algernon
+ FDM by StuartC
+ Contributions by Tomaskom and Avionyx
+ Liveries by Gary Brown (N-SCOT)
+ 
+ Algernon Aerospace Victor
+ -------------------------
+ (Forked from FGUK Victor)
+ B2, K2 & SR2 variants (YASim) by Algernon
+ FDM by Algernon
+ 
