@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+
+<!--
+
+-->
+
+<PropertyList>
+
+  <sim>
+
+    <description>Handley Page Victor B2 (YASIM)</description>
+    <author>See Documents/credits.README</author>
+	<aircraft-version>0.1</aircraft-version>
+    <status>Development</status>
+
+    <flight-model archive="y">yasim</flight-model>
+    <aero archive="y">victor-yasim</aero>
+
+    <startup>
+      <splash-texture>Aircraft/victor/VictorB2-splash.jpg</splash-texture>
+    </startup>
+
+    <model>
+      <path archive="y">Aircraft/victor/Models/Victor-B2.xml</path>
+	  <variant type="int">1</variant>
+      <livery> 
+        <file type="string"/> 
+      </livery> 
+
+    </model>
+
+</PropertyList>
